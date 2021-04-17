@@ -20,4 +20,5 @@ We later realized that it was a file handling issue that was easily resolved by 
 The time crunch was probably the biggest challenge we faced. We have been working non-stop with only nutrition breaks for the last 24 hours. The goal we had set was 
 momentous and we are quite proud of what we could achieve in this short timeframe.
 
-
+A screenshot of the interface :
+![image](https://user-images.githubusercontent.com/78679552/115129130-be6a1700-a000-11eb-8df7-bd05a651c10c.png)
