@@ -1,5 +1,5 @@
 # Futhur
-A career counselling project 
+A career counselling project : Salesforce Codathon #Cognizance
 
 Problem statement : To solve the multifaceted issue of career choice and the associated harms of an unplanned career
 
