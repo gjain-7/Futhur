@@ -25,9 +25,9 @@ def filter_product(a, b):
 def booler(x):
     for i in range(len(x)):
         if x[i] > 0:
-            x[i] = 1
-        else:
             x[i] = 0
+        else:
+            x[i] = 1
     return x
 
 @app.route('/')
